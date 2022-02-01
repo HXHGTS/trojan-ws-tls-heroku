@@ -20,7 +20,7 @@ Linux下用bash执行:
 
 在线生成随机密码(推荐):
 
-<a href="http://tool.pfan.cn/guidgen/create?chkbrace=0&chkhyphen=1&chkupper=0&num=1" target="_blank">在线生成UUID</a>
+<a href="https://1password.com/password-generator/" target="_blank">随机密码</a>
 
 ### CDN嵌套方法
 
