@@ -38,10 +38,7 @@ cat << EOF > /usr/local/etc/xray/config.json
   "outbounds": [
     {
       "tag":"INTERNET_OUT",
-      "protocol": "freedom",
-      "settings": {
-        "domainStrategy": "UseIP"
-      }
+      "protocol": "freedom"
     }
   ],
   "routing": {
@@ -55,8 +52,8 @@ cat << EOF > /usr/local/etc/xray/config.json
   },
   "dns": {
     "servers": [
-      "1.1.1.1",
-      "1.0.0.1"
+      "8.8.8.8",
+      "8.8.4.4"
 ]
 }
 }
