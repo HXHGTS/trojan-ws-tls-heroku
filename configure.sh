@@ -35,27 +35,11 @@ cat << EOF > /usr/local/etc/xray/config.json
                 }
         }
     ],
-  "outbounds": [
-    {
-      "tag":"INTERNET_OUT",
-      "protocol": "freedom"
-    }
-  ],
-  "routing": {
-    "rules": [
-      {
-        "type": "field",
-        "outboundTag": "INTERNET_OUT",
-        "network": "udp,tcp"
-      }
+    "outbounds": [
+        {
+            "protocol": "freedom"
+        }
     ]
-  },
-  "dns": {
-    "servers": [
-      "8.8.8.8",
-      "8.8.4.4"
-]
-}
 }
 EOF
 
