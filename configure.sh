@@ -23,7 +23,7 @@ cat << EOF > /usr/local/etc/xray/config.json
             "settings": {
                 "clients": [
                     {
-                "password": "$PWD"
+                "password": "$TRPWD"
                     }
                 ]
             },
