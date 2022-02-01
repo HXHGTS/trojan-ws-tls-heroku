@@ -1,0 +1,14 @@
+{
+    "name": "Trojan-ws-tls",
+    "description": "Deploy Trojan-ws-tls on Heroku.",
+    "keywords": ["Trojan-ws-tls"],
+    "env": {
+        "PWD": {
+            "description": "Trojan Passwd",
+            "value": "X6LukWWfMuV9ejYsG0XWs5kVA1fF8v"
+        }
+    },
+    "website": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
+    "repository": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
+    "stack": "container"
+}
