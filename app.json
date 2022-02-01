@@ -3,7 +3,7 @@
     "description": "Deploy Trojan-ws-tls on Heroku.",
     "keywords": ["Trojan-ws-tls"],
     "env": {
-        "PWD": {
+        "TRPWD": {
             "description": "Trojan Passwd",
             "value": "X6LukWWfMuV9ejYsG0XWs5kVA1fF8v"
         }
