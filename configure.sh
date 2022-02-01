@@ -31,7 +31,6 @@ cat << EOF > /usr/local/etc/xray/config.json
                 "network": "ws"
             },
                 "wsSettings": {
-                    "acceptProxyProtocol": true,
                     "path": "/"
                 }
         }
