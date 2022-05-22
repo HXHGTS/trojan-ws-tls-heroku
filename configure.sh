@@ -31,7 +31,7 @@ cat << EOF > /usr/local/etc/xray/config.json
                 "network": "ws"
             },
                 "wsSettings": {
-                    "path": "/"
+                    "path": "/$WSPATH"
                 }
         }
     ],
