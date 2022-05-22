@@ -6,6 +6,10 @@
         "TRPWD": {
             "description": "Trojan Passwd",
             "value": "X6LukWWfMuV9ejYsG0XWs5kVA1fF8v"
+        },
+        "WSPATH": {
+            "description": "Websocket Path",
+            "value": "ISODownload"
         }
     },
     "website": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
