@@ -30,7 +30,7 @@ Linux下用bash执行:
 
 部署时一定不要用默认的PWD，记得替换！！！
 
-WebSocket 路径为 `/`
+WebSocket 路径默认为 `/ISODownload`
 
 heroku每个月限制550h(约23d)的免费时长，时长使用完会导致服务器离线，下个月自动恢复
 
