@@ -9,7 +9,7 @@
         },
         "WSPATH": {
             "description": "Websocket Path",
-            "value": "ISODownload"
+            "value": "/ISODownload"
         }
     },
     "website": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
